@@ -1,12 +1,13 @@
-### Привет всем, меня зовут Алексей 👋
-
-
+## Привет всем, меня зовут Алексей 👋
 Here are some ideas to get you started:
+----
 ## Мои проекты в Яндекс.Практикум
 1. [How to learn](https://bakhar1993.github.io/how-to-learn/)
 2. [Russian Travel](https://bakhar1993.github.io/russian-travel/)
 3. [Mesto](https://bakhar1993.github.io/mesto/)
 ----
+![image](https://user-images.githubusercontent.com/94779259/163863823-fe89f35d-c69d-4862-9b18-4a4322ad2f17.png)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
