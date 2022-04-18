@@ -1,10 +1,12 @@
-### Hi there 👋
+### Привет всем, меня зовут Алексей 👋
 
-<!--
-**bakhar1993/bakhar1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Мои проекты в Яндекс.Практикум
+1. [How to learn](https://bakhar1993.github.io/how-to-learn/)
+2. [Russian Travel](https://bakhar1993.github.io/russian-travel/)
+3. [Mesto](https://bakhar1993.github.io/mesto/)
+----
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
